@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Notification POC</string>
+    <string name="notification_msg">Notification1</string>
+    <string name="notification_subtitle">Reward</string>
+    <string name="txt_hint_notification_title">Enter Notification Title</string>
+    <string name="txt_notification_msg">Enter Notification Message</string>
+    <string name="txt_send_notification">Send Notification</string>
+    <string name="txt_show_notification">Show Notifications</string>
+    <string name="txt_no_notifications_available">No Notifications Available</string>
+    <string name="txt_title_notifications">Notifications</string>
 </resources>
